@@ -30,3 +30,8 @@ C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\
 C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.pdb
 C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CopyComplete
 C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
+C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Create.g.cshtml.cs
+C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Delete.g.cshtml.cs
+C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Details.g.cshtml.cs
+C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Edit.g.cshtml.cs
+C:\Users\Mike\Documents\ComputerScience\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Movies\Index.g.cshtml.cs
